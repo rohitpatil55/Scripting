@@ -4,6 +4,7 @@ echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
+echo "I am DevOps-2 and testing conflicts 11"
 echo "I am DevOps-2 and testing conflicts rrp"
 echo "I am DevOps-2 and testing conflicts 1"
 
